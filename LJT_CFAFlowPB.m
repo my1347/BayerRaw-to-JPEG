@@ -1,4 +1,4 @@
-%Require wbmask (by RCSumner)
+%Require wbmask (by Rob Sumner)
 %%GetInfo
 % info from dcraw
 % Loading Leica M9 image from st.dng ...
